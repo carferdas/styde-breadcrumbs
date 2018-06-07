@@ -1,4 +1,4 @@
-## StydeBox
+## Breadcrumbs
 Este es el resultado final del tutorial Breadcrumbs dinamicos con Laravel.
 
 **Tutorial:** [https://styde.net/breadcrumbs-dinamicos-con-laravel](https://styde.net/breadcrumbs-dinamicos-con-laravel)
